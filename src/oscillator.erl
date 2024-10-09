@@ -1,0 +1,3 @@
+-module(oscillator).
+
+-export([]).
